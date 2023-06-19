@@ -1,5 +1,4 @@
 Ein kleines Schachspiel, geschrieben in Lua mit dem Löve2D-Framework (https://love2d.org). Dieses Miniprojekt ermöglichte es mir, im Rahmen der Programmierworkshops, die ich im Frühjahr 2023 in der Ludothèque und im Fablab in Briançon leite, Fortschritte in Lua und Löve2D zu machen (siehe diese Seite).
-<https://naereen.github.io/Love-2D-tiny-Chess-game/www/>
 Fortschritt des Miniprojekts
   Erste Architektur mit Klassen für Räume;
   Tafeldisplay;
