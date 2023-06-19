@@ -1,4 +1,5 @@
-Ein kleines Schachspiel, geschrieben in Lua mit dem Löve2D-Framework (https://love2d.org). Dieses Miniprojekt ermöglichte es mir, im Rahmen der Programmierworkshops, die ich im Frühjahr 2023 in der Ludothèque und im Fablab in Briançon leite, Fortschritte in Lua und Löve2D zu machen (siehe diese Seite).
+Ein kleines Schachspiel, geschrieben in Lua mit dem Löve2D-Framework (https://love2d.org). 
+Dieses Miniprojekt ermöglichte es mir, im Rahmen der Programmierworkshops, die ich im Frühjahr 2023 in der Ludothèque und im Fablab in Briançon leite, Fortschritte in Lua und Löve2D zu machen (siehe diese Seite).
 Fortschritt des Miniprojekts
   Erste Architektur mit Klassen für Räume;
   Tafeldisplay;
@@ -18,7 +19,7 @@ Vorführung des Bretts während des Spiels
 
 Und dann möchte ich Folgendes versuchen:
 
-  Verbinden Sie den schwarzen Spieler mit einer Befehlszeilen-API eines guten Schachlösers, z. B. zuerst sunfish.lua, dann Champion Stockfish.
+Verbinden Sie den schwarzen Spieler mit einer Befehlszeilen-API eines guten Schachlösers, z. B. zuerst sunfish.lua, dann Champion Stockfish.
 Zu Beginn können wir einfach einen vorgeschlagenen Zug auf der linken Seite des Bretts anzeigen und den menschlichen Spieler diesen Zug mit der Maus platzieren lassen.
 Was ich nicht alleine machen werde (weil ich es nicht will)
 Aber wir können es gemeinsam bei einem der Programmierworkshops am Mittwochnachmittag versuchen!
@@ -27,4 +28,3 @@ Aber wir können es gemeinsam bei einem der Programmierworkshops am Mittwochnach
   Im Vorbeigehen aufgenommen;
   Kleine und große Rochade;
   Eine selbstgemachte künstliche Intelligenz;
-Lizenz?
